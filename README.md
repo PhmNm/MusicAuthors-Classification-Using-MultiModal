@@ -71,7 +71,7 @@ Propose Models:
 
 ![propose_model](img/whitebackground_propose_model.png)
 
-Self-build from Cross-Modal Attention MultiModal of [Krishna D N](https://arxiv.org/abs/2108.09669)
+Self-build from [Cross-Modal Attention MultiModal](https://arxiv.org/abs/2108.09669) of Krishna D N.
 
 ![cma_multimodal](img/engver_self_cm_bert_wav2vec2.png)
 
@@ -83,7 +83,7 @@ Metrics score:
 
 Confusion matrices:
 
-![cm_matrices](img/confusion_matrixs.png)
+![cm_matrices](img/confusion_matrices.png)
 
 ## <a name="notebooks"></a> Training Notebooks
 
