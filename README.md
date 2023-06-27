@@ -4,6 +4,8 @@ A research of using multi-modal for Vietnamese music authors classification task
 
 Also this is our graduation thesis at HCMUS. Graduation year: 2023.
 
+To receive full dataset, notebooks please contact: <19120597@student.hcmus.edu.vn>
+
 ## Table of contents
 
 1. [Dataset](#dataset)
@@ -63,7 +65,7 @@ Our dataset includes 15 Vietnamese authors and 50 songs each, except the last au
 | token_len | length of the tokens list after tokenized by AutoTokenizer |
 | audio_len | song duration in seconds |
 
-To receive full dataset, please contact: <19120597@student.hcmus.edu.vn>
+Contact for full access to our dataset.
 
 ## <a name="models"></a> Models' Descriptions
 
@@ -89,7 +91,9 @@ Confusion matrices:
 
 Our implementing and training phase mostly on Google Colaboratory mechanism. Therefore, there was no specific version of local training setups for these models.
 
-In this repository, we provide 3 [notebooks](notebooks/) with 4 main phases:
+Contact for detailed notebooks.
+
+In this repository, we provide 4 [notebooks](notebooks/) with 4 main phases:
 
 - Load & visual datasets.
 - Initalize Dataset class and Model class.
