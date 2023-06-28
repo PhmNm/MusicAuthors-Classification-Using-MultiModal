@@ -69,13 +69,17 @@ Contact for full access to our dataset.
 
 ## <a name="models"></a> Models' Descriptions
 
-Propose Models:
+Proposed approaches:
 
 ![propose_model](img/whitebackground_propose_model.png)
 
 Self-build from [Cross-Modal Attention MultiModal](https://arxiv.org/abs/2108.09669) of Krishna D N.
 
 ![cma_multimodal](img/engver_self_cm_bert_wav2vec2.png)
+
+Our multimodal approach
+
+![proposed_multimodal](img/engver_white_multimodal_structure.png)
 
 ## <a name="result"></a> Research Result
 
